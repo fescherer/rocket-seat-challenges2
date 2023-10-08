@@ -176,7 +176,7 @@ My name is Felipe Scherer. You can find my socials at [my Github profile](https:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Badges and Badges Link -->
-
+<!-- https://github.com/Ileriayo/markdown-badges -->
 [contributors-shield]: https://img.shields.io/github/contributors/fescherer/rocketseat-challenges2.svg?style=for-the-badge
 [contributors-url]: https://github.com/fescherer/rocketseat-challenges2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/fescherer/rocketseat-challenges2.svg?style=for-the-badge
