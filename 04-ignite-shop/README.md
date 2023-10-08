@@ -43,7 +43,7 @@ Application of e-commerce
 
 <a name="about"></a>
 
-## 💬 About 💬
+## 📕 About 📕
 
 This project was made based on challenge 04 of Rockeseat Bootcamp Ignite.
 

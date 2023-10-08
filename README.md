@@ -43,7 +43,7 @@ Rocketseat challenges 4, 5 and 6
 
 <a name="about"></a>
 
-## 💬 About 💬
+## 📕 About 📕
 
 This is a collection of [Rocketseat](https://www.rocketseat.com.br) challenges.
 
