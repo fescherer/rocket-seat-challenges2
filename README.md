@@ -13,7 +13,7 @@
     <img src="https://github.com/fescherer/rocketseat-challenges2/assets/62115215/1221e296-30b0-4833-bf10-1a4f55a45e92" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">rocketseat-challenges2</h3>
+<h3 align="center">Rocketseat Challenges 2</h3>
 
 <p align="center">
 
@@ -50,6 +50,8 @@ Rocketseat challenges 4, 5 and 6
 ## 💬 About 💬
 
 This is a collection of [Rocketseat](https://www.rocketseat.com.br) challenges.
+
+[Link for challenge 4](https://challenge-04.felipescherer.com)
 
 This repository has challenges 4, 5 and 6. To find the others challenges [go to this repository](https://github.com/fescherer/rocketseat-challenges).
 
