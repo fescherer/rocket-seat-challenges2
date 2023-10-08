@@ -17,7 +17,7 @@
 
 <p align="center">
 
-Rocketseat challenges 4,5 and 6
+Rocketseat challenges 4, 5 and 6
 <br />
 <a href="https://github.com/fescherer/rocketseat-challenges2"><strong>Explore the docs »</strong></a>
 <br />
@@ -51,7 +51,7 @@ Rocketseat challenges 4,5 and 6
 
 This is a collection of [Rocketseat](https://www.rocketseat.com.br) challenges.
 
-This repository has challenges 4,5 and 6. To find the others challenges [go to this repository](https://github.com/fescherer/rocketseat-challenges).
+This repository has challenges 4, 5 and 6. To find the others challenges [go to this repository](https://github.com/fescherer/rocketseat-challenges).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
